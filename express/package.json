@@ -1,0 +1,11 @@
+
+{
+  "name": "hello-express",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.9.x",
+    "serve-static": "1.6.2"
+  }
+}

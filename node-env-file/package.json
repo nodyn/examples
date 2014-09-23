@@ -1,0 +1,9 @@
+{
+  "name": "node-env-file-example",
+  "description": "simple example app using node-env-file",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "node-env-file": "0.1.3"
+  }
+}
