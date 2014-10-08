@@ -1,0 +1,10 @@
+
+{
+  "name": "pizza",
+  "description": "example pizza commander app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "commander": "2.3.x"
+  }
+}
