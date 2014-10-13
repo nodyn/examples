@@ -5,3 +5,5 @@ First, install react-tools globally.
 Then run the watcher:
 
     $ jsx --watch src/ build/
+
+Then open helloworld.html in a web browser
